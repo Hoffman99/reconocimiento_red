@@ -1,5 +1,9 @@
 # Reconocimiento de RED con BASH
 
+## Diagrama del Algoritmo
+
+![Diagrama Script](https://raw.githubusercontent.com/Hoffman99/reconocimiento_red/main/barrido_red.png)
+
 ## Características
 - Detecta automáticamente la red de la interfaz `wlp` (WiFi)
 - Soporta máscaras /8, /16, /24 mediante recursión
@@ -9,5 +13,3 @@
 ```bash
 chmod +x ping_sweep.sh
 ./ping_sweep.sh
-
-![Diagrama Script](https://raw.githubusercontent.com/Hoffman99/reconocimiento_red/main/barrido_red.png)
