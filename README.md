@@ -9,3 +9,5 @@
 ```bash
 chmod +x ping_sweep.sh
 ./ping_sweep.sh
+
+[Diagrama Scrip] (https://github.com/Hoffman99/reconocimiento_red/blob/main/barrido_red.png)
